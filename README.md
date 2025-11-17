@@ -4,7 +4,7 @@
 
 ### Security Architect | SOC Engineer | Detection Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+secure+cloud+environments;SIEM+%7C+SOAR+%7C+Threat+Detection;Automating+security+operations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+secure+environments;SIEM+%7C+SOAR+%7C+Threat+Detection;Automating+security+operations" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sangamprabhu&color=58a6ff&style=flat-square)](https://github.com/sangamprabhu)
 
@@ -127,18 +127,6 @@ Analyzed malware using IDA Pro, Ghidra, and OllyDbg to uncover process hollowing
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangamprabhu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamprabhu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sangamprabhu&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
-</div>
-
----
 
 ## 🏆 Certifications & Achievements
 
@@ -164,13 +152,6 @@ Coursework: Network Security, Cyber Forensics, Cryptography, Penetration Testing
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangamprabhu&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
-</div>
-
----
 
 ## 🎯 Security Frameworks & Compliance
 
