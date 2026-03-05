@@ -29,7 +29,7 @@
 ```python
 sangamesh = {
     "location": "Charlotte, NC, USA",
-    "current_role": "Security Architect Intern @ Aster Health Inc",
+    "current_role": "Security Engineer @ Aster Health Inc",
     "education": "MS in Cybersecurity @ UNC Charlotte",
     "focus_areas": [
         "Security Operations Center (SOC)",
