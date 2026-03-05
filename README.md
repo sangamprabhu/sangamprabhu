@@ -58,6 +58,7 @@ sangamesh = {
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Cortex XDR](https://img.shields.io/badge/Cortex_XDR-FF6600?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Cloud Security
 ![AWS](https://img.shields.io/badge/AWS_Security-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -88,6 +89,11 @@ sangamesh = {
 ![Ghidra](https://img.shields.io/badge/Ghidra-B71C1C?style=for-the-badge&logo=ghidra&logoColor=white)
 ![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge&logo=qualys&logoColor=white)
 
+### DLP & Data Protection
+![Microsoft Purview](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Proofpoint](https://img.shields.io/badge/Proofpoint-FF6C37?style=for-the-badge&logo=proofpoint&logoColor=white)
+![Amazon Macie](https://img.shields.io/badge/Amazon_Macie-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 </div>
 
 ---
@@ -110,20 +116,20 @@ Analyzed malware using IDA Pro, Ghidra, and OllyDbg to uncover process hollowing
 
 ## 💼 Professional Experience
 
-**Security Architect Intern** @ Aster Health Inc *(Aug 2025 - Present)*
-- Integrated CloudTrail, GuardDuty, and IAM logs into Splunk ES
+**Security Architect Intern** @ Aster Health Inc *(Aug 2024 - Present)*
+- SecOps and Incident Response on AWS to secure PHI/PII DLP
+- Integrated Mice, CloudTrail, GuardDuty, and IAM logs into Splunk ES
 - Built cloud-focused correlation searches for early threat detection
-- Developed compliance dashboards for HIPAA, GDPR, SOX, and PCI
 
 **Security Consultant** @ UNCC Cybersecurity Clinic *(Feb 2024 - Jul 2025)*
-- Integrated client telemetry into Microsoft Sentinel using KQL
+- Integrated client telemetry into Microsoft Sentinel using KQL in MSSP environment
 - Performed risk assessments aligned with SOC 2, NIST CSF, ISO 27001
-- Built SIEM use cases for phishing, access control, and IDS/IPS logs
+- Built KPI reports to leadership, highlighting incident trends and remediation progress
 
 **Security Engineer** @ Thermo Fisher Scientific *(Jan 2022 - Dec 2023)*
-- Designed and automated SOC workflows in Splunk SOAR (30% faster response)
-- Monitored 24x7 SOC across Firewall, IDS, EDR, IAM, M365 logs
+- Monitored alerts in 24x7 SOC across SIEM, Firewall, IDS, EDR, DLP, IAM, M365 logs
 - Built MITRE ATT&CK aligned detections and correlation rules
+- vulnerability management using Qualys, prioritizing remediation using CVSS
 
 ---
 
@@ -146,7 +152,7 @@ Analyzed malware using IDA Pro, Ghidra, and OllyDbg to uncover process hollowing
 ## 🎓 Education
 
 **Master of Science in Cybersecurity**  
-University of North Carolina at Charlotte *(Jan 2024 - Present)*
+University of North Carolina at Charlotte *(Jan 2024 - Dec 2025)*
 
 Coursework: Network Security, Cyber Forensics, Cryptography, Penetration Testing, Security Analytics, Malware Analysis, Enterprise Security
 
