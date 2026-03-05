@@ -116,7 +116,7 @@ Analyzed malware using IDA Pro, Ghidra, and OllyDbg to uncover process hollowing
 
 ## 💼 Professional Experience
 
-**Security Architect Intern** @ Aster Health Inc *(Aug 2024 - Present)*
+**Security Engineer** @ Aster Health Inc *(Aug 2024 - Present)*
 - SecOps and Incident Response on AWS to secure PHI/PII DLP
 - Integrated Mice, CloudTrail, GuardDuty, and IAM logs into Splunk ES
 - Built cloud-focused correlation searches for early threat detection
