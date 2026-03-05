@@ -122,8 +122,8 @@ Analyzed malware using IDA Pro, Ghidra, and OllyDbg to uncover process hollowing
 - Built cloud-focused correlation searches for early threat detection
 
 **Security Consultant** @ UNCC Cybersecurity Clinic *(Feb 2024 - Jul 2025)*
-- Integrated client telemetry into Microsoft Sentinel using KQL in MSSP environment
 - This was capstone project part of MS in Cybersecurity at UNCC
+- Integrated client telemetry into Microsoft Sentinel using KQL in MSSP environment
 - Performed risk assessments aligned with SOC 2, NIST CSF, ISO 27001
 - Built KPI reports to leadership, highlighting incident trends and remediation progress
 
