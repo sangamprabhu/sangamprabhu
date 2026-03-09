@@ -130,6 +130,7 @@ Analyzed malware using IDA Pro, Ghidra, and OllyDbg to uncover process hollowing
 **Security Engineer** @ Thermo Fisher Scientific *(Jan 2022 - Dec 2023)*
 - Monitored alerts in 24x7 SOC across SIEM, Firewall, IDS, EDR, DLP, IAM, M365 logs
 - Built MITRE ATT&CK aligned detections and correlation rules
+- Performed reverse engineering on wide set of Malwares
 - vulnerability management using Qualys, prioritizing remediation using CVSS
 
 ---
